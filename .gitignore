@@ -1,0 +1,13 @@
+﻿.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+
+chroma_db/
+uploaded_files/
+
+.streamlit/secrets.toml
+*.joblib
+*.pkl

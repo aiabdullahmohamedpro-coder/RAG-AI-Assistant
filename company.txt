@@ -1,0 +1,7 @@
+﻿The company name is Abdullah AI.
+Abdullah AI was founded in 2021 by Abdullah Mohamed.
+The company develops AI software for hospitals.
+Its main product is MedAssist, an assistant that helps hospital staff organize patient appointments.
+MedAssist does not diagnose diseases or prescribe medication.
+Abdullah AI headquarters are located in Cairo, Egypt.
+The company currently has 25 employees.
